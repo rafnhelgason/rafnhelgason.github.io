@@ -16,7 +16,7 @@ body {
 .nav-wrapper {
     display: flex;
     justify-content: space-between;
-    padding: 80px;
+    padding: 60px;
     
 }
 
@@ -75,7 +75,7 @@ body {
 }
 
 .portfolio-img-background {
-    height: 700px;
+    height: 800px;
     width: 100%;
     background-size: cover;
     background-position: center;
